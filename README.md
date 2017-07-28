@@ -6,6 +6,9 @@ This repo provide SSR downloads for client bin and source code.
 - Android
 - Server / Client source code
 
+# Get more info
+- telegram channel https://t.me/BackupSSR
+
 # Fress ss account
 - http://trial.ssbit.win
 
