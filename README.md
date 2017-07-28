@@ -8,7 +8,6 @@ This repo provide SSR downloads for client bin and source code.
 
 # Fress ss account
 - http://trial.ssbit.win
-- https://my.potvpn.com/tutorial/trial_port
 
 # Free ssr aaccount
 - to be updated, will be ready soon
