@@ -11,7 +11,7 @@ This repo provide SSR downloads for client bin and source code.
 - telegram channel https://t.me/BackupSSR
 
 ## Fress ss account
-- http://trial.ssbit.win
+- https://t.netflybit.top
 
 ## Free ssr aaccount
 - to be updated, will be ready soon
