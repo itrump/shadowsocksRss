@@ -6,12 +6,12 @@ This repo provide SSR downloads for client bin and source code.
 - Android
 - Server / Client source code
 
-## Get more info
-- telegram group https://t.me/joinchat/Git7-Q245Ji8zUsforra1w
-- telegram channel https://t.me/BackupSSR
+## Get more info(visit link with proxy on)
+- [telegram group](https://t.me/joinchat/Git7-UIKZN41--c9P_N-GA)
+- [telegram channel](https://t.me/BackupSSR)
 
 ## Fress ss account
-- https://t.netflybit.top
+- [free trial ss](https://t.netflybit.top)
 
 ## Free ssr aaccount
 - to be updated, will be ready soon
